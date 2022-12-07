@@ -1,3 +1,4 @@
 # WebGIS-Docs
 
-https://github.com/buyodo/webgis-doc/blob/main/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A6%82%E8%A6%81.drawio.png?raw=true
+![システム概要 drawio](https://user-images.githubusercontent.com/35587841/206092819-64a5332d-2345-40f8-9127-dfadb81ae8c7.png)
+
